@@ -36,8 +36,14 @@
             <scope>compile</scope>
         </dependency>
         <dependency>
+            <artifactId>demo</artifactId>
+            <groupId>com.gewei.demo</groupId>
+        </dependency>
+        <dependency>
             <groupId>com.gewei.demo</groupId>
             <artifactId>dao</artifactId>
+            <version>0.0.1-SNAPSHOT</version>
+            <scope>compile</scope>
         </dependency>
     </dependencies>
     <build>

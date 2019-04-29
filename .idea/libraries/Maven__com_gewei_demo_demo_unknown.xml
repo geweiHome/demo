@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.gewei.demo:demo:unknown">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/gewei/demo/demo/unknown/demo-unknown.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/gewei/demo/demo/unknown/demo-unknown-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/gewei/demo/demo/unknown/demo-unknown-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
